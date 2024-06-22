@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18 avr. 2024, 22:30:43
+    Author     : RSservices
+*/
+
+/*feuille de style des fenêtres*/
+.bg-form{
+    -fx-background-color: linear-gradient(to bottom right,#0f056b, #0110b7);
+}
+
+/*feuille de style de style de l'entête'*/
+.headr{
+    -fx-text-fill: #ffffff;
+    -fx-border-width: 0 0 0 10px;
+    -fx-font-family: Arial;
+    -fx-padding: 0 0 0 5px;
+    -fx-font-size: 20px;
+}
+
+/*feuille de style des champs de texts*/
+.textfield{
+    -fx-background-color: transparent;
+    -fx-font-size: 13px;
+    -fx-font-family: Arial;
+    -fx-padding: 0 0 0 25px;
+    -fx-border-color: linear-gradient(to bottom right, #ffffff, #ffffff);
+    -fx-border-width: .15px;
+    -fx-text-fill: #ffffff; 
+    -fx-font-size: 14px;
+}
+
+.textfield:focused{
+    -fx-background-color: #0131b4;
+    -fx-border-color: #0110b7;
+    -fx-border-width: 0.5px;
+}
+
+/*feuille de style des bouttons*/
+.btnn{
+    -fx-background-color: linear-gradient(to bottom right, #717fd8,#007fff);
+    -fx-font-family: Arial;
+    -fx-font-size: 15px;
+    -fx-cursor: hand;
+    -fx-text-fill: #ffffff;
+}
+.btnn:hover{
+    -fx-background-color: #007fff;
+}
+
+/*feuille de style du combo box*/
+.combo{
+    -fx-background-color: linear-gradient(to bottom right, #717fd8,#007fff);
+    -fx-font-family: Arial;
+    -fx-font-size: 15px;
+    -fx-cursor: hand;
+    -fx-text-fill:  #ffffff;
+}
+
+.combo:hover{
+    -fx-background-color: #007fff;
+}
+

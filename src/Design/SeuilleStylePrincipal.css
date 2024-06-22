@@ -1,0 +1,82 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 avr. 2024, 20:07:08
+    Author     : RSservices
+//#0f056b
+*/
+
+.close{
+    -fx-background-color: #0f056b;
+    -fx-background-radius: 5px;
+    -fx-cursor: hand;
+}
+
+.close:hover{
+    -fx-background-color: FF0000;
+    -fx-background-radius: 20px;
+}
+
+.blanc-bg{
+    -fx-background-color: #ffffff;
+}
+
+.raduis{
+    -fx-background-radius: 8px;
+}
+
+.shadow{
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,1), 5,0,0,0);
+}
+
+.principal-bg{
+    -fx-background-color: linear-gradient(to bottom right,#0f056b, #0110b7);
+}
+
+.btn{
+    -fx-background-color: linear-gradient(to bottom right, #717fd8,#007fff);
+    -fx-font-family: Arial;
+    -fx-font-size: 15px;
+    -fx-cursor: hand;
+    -fx-text-fill: #ffffff;
+}
+.btn:hover{
+    -fx-background-color: #007fff;
+}
+
+.entete{
+    -fx-background-color: linear-gradient(to bottom right, #0110b7, #0f056b);
+}
+
+.table-veiw{
+    -fx-background-color: transparent;
+    -fx-padding: 0;  
+    -fx-border-color: linear-gradient(to bottom right, #0110b7, #0f056b);
+    -fx-border-radius: 8px;
+}
+.table-veiw .column-header-background{
+    -fx-background-color: linear-gradient(to bottom right, #0110b7, #0f056b);
+    -fx-background-radius: 16px 16x 0 0;
+    -fx-background-insets: 0, 0, 0, 0;
+}
+.table-veiw .column-header, .filter{
+    -fx-background-color: transparent;
+    -fx-size: 40px;
+}
+
+.table-veiw .column-header .label{
+    -fx-text-fill: #ffffff;
+}
+
+.btn1{
+    -fx-background-color: linear-gradient(to bottom right,#0f056b, #0110b7);
+    -fx-cursor: hand;
+    -fx-text-fill: #ffffff;
+}
+
+.btn1:hover{
+    -fx-background-color: #0f056b;
+}
