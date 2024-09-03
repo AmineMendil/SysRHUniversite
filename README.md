@@ -15,5 +15,11 @@ Ce projet a été réalisé par un groupe de trois étudiants. J'ai participé �
 + Participation à la conception des interfaces intuitives.
 + Correction des bugs et des erreurs rencontrés au cours de la réalisation du projet.
 
+### fonctionnement de l'application
+Cette application comporte trois types d'utilisateurs :
++ L'administrateur, dont le rôle est de gérer la base de données et les comptes des autres utilisateurs.
++ L'enseignant, dont le rôle est d'inscrire les étudiants concernés à ses cours et de gérer ses informations personnelles.
++ L'étudiant, dont le rôle est de faire des demandes d'inscription aux cours souhaités, de télécharger ses cours, de consulter les actualités de l'université, et de voir ses notes. 
+
 
 
