@@ -1,5 +1,7 @@
 
 # Système de gestion des ressources humaines d'une université
+https://github.com/user-attachments/assets/3e68715e-3a87-4f69-9db7-0a415ef291be
+
 L'objectif principal de la réalisation d'une application de gestion pour une université privée est d'améliorer l'efficacité, la productivité et la qualité des services fournis, tout en offrant une meilleure expérience aux utilisateurs et en assurant une gestion optimale des ressources de l'institution.
 
 + Centraliser toutes les informations académiques, financières et administratives dans un système unique pour faciliter l'accès et la gestion des données.
